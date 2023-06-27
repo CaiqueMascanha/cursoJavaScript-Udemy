@@ -1,0 +1,1 @@
+console.log("GPJ" * 4)
